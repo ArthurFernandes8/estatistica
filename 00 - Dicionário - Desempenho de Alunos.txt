@@ -1,0 +1,9 @@
+idade:                     Idade do aluno (em anos)
+horas estudo:              Horas semanais de estudo
+frequência:                Frequência escolar (%)
+atividade extracurricular: "Sim" ou "Não"
+nivel_socioeconomico:      "Baixo", "Médio" ou "Alto"
+motivação:                 Nível de motivação
+notas anteriores:          Média de notas anteriores
+sono:                      Horas de sono por noite
+desempenho:                Variável dependente desempenho do aluno
